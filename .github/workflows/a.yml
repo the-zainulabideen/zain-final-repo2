@@ -3,7 +3,7 @@ name: s3 bucket deployement
 on|:
   push: 
     Branch:
-        - a.yml
+        - main
 
 Jobs:
   deploy:
